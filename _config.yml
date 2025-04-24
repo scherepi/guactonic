@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: chroma-terminal
+description: "A colorful old terminal theme built for Hack Club's Tonic YSWS."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
